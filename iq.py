@@ -31,7 +31,7 @@
 # 01-04-2014 Initial release (QST article 4/2014)
 # 05-17-2014 Improvements for RPi timing, etc.
 #            Add REV, skip, sp_max/min, v_max/min options
-# 05-31-2014 Add Si570 freq control option (DDS chip provided in SoftRock, eg.)
+# 05-31-2014 Add Si570 freq control option (VCXO chip provided in SoftRock, eg.)
 #           Note: Use of Si570 requires libusb-1.0 wrapper from 
 #           https://pypi.python.org/pypi/libusb1/1.2.0
 
